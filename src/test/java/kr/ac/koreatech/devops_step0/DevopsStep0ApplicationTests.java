@@ -22,10 +22,10 @@ class DevopsStep0ApplicationTests {
 		assertEquals(30, result);
 	}
 
-	@Test
-	void add_test2() {
-		int result = add(10, 20);
-		assertEquals(10, result);
-	}
+	// @Test
+	// void add_test2() {
+	// 	int result = add(10, 20);
+	// 	assertEquals(10, result);
+	// }
 
 }
